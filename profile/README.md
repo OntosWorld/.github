@@ -221,6 +221,16 @@ Know whether the observations, machine state and resulting actions can be relied
 
 ---
 
+## Languages
+
+Our current robotics and machine infrastructure spans:
+
+**Python** · **C++** · **Bash** · **CMake**
+
+Python drives much of the model, SDK and tooling layer, while C++ is used for performance-sensitive robot runtime work, including the P37 Neuro C++ runtime and ROS 2 integration.
+
+---
+
 ## Open infrastructure
 
 Some parts of Ontos are being built in the open because physical intelligence will require more than one company, one robot manufacturer or one machine architecture.
