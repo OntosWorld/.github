@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" fill="none">
+  <rect width="1600" height="520" fill="#FAFAF7"/>
+  <g stroke="#D8DDD7" stroke-width="1">
+    <path d="M0 104H1600"/><path d="M0 208H1600"/><path d="M0 312H1600"/><path d="M0 416H1600"/>
+    <path d="M200 0V520"/><path d="M400 0V520"/><path d="M600 0V520"/><path d="M800 0V520"/>
+    <path d="M1000 0V520"/><path d="M1200 0V520"/><path d="M1400 0V520"/>
+  </g>
+  <g fill="#111713">
+    <text x="88" y="112" font-family="Inter,Arial,sans-serif" font-size="24" font-weight="600" letter-spacing="6">ONTOS</text>
+    <text x="88" y="236" font-family="Inter,Arial,sans-serif" font-size="68" font-weight="500">Physical intelligence</text>
+    <text x="88" y="312" font-family="Inter,Arial,sans-serif" font-size="68" font-weight="500">for machines.</text>
+    <text x="90" y="374" font-family="Inter,Arial,sans-serif" font-size="24" fill="#5B625D">Helping machines understand the real world.</text>
+  </g>
+  <g transform="translate(1130 100)">
+    <circle cx="160" cy="160" r="132" stroke="#111713" stroke-width="1.5"/>
+    <circle cx="160" cy="160" r="82" stroke="#9EA69F" stroke-width="1"/>
+    <circle cx="160" cy="160" r="25" fill="#111713"/>
+    <circle cx="28" cy="160" r="5" fill="#111713"/>
+    <circle cx="292" cy="160" r="5" fill="#111713"/>
+    <circle cx="160" cy="28" r="5" fill="#111713"/>
+    <circle cx="160" cy="292" r="5" fill="#111713"/>
+    <path d="M28 160H292M160 28V292" stroke="#9EA69F" stroke-width="1"/>
+    <path d="M67 67L253 253M253 67L67 253" stroke="#D8DDD7" stroke-width="1"/>
+  </g>
+  <text x="88" y="475" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14" fill="#7E8580" letter-spacing="2">SEE  →  UNDERSTAND  →  REASON  →  ACT  →  LEARN</text>
+</svg>
